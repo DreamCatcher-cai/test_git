@@ -1,4 +1,4 @@
-a = 5
-b = 10
+c = 100
+d = 10
 
-print(b * a)
+print(c * d)
