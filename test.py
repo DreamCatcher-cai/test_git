@@ -1,8 +1,4 @@
-a = 5
-b = 10
+g = 100
+h = 100
 
-e = 10
-f = 3
-
-print(b * a)
-print(e * f)
+print(g * h)
